@@ -1,2 +1,2 @@
 # MLmath
-Essential Mathematic for machine learing 
+Essential Mathematics for Machine Learing 
