@@ -1,2 +1,2 @@
 # MLmath
-Essential Mathematics for Machine Learing 
+This repository is collection of the Essential Mathematical concepts used in Machine Learing 
